@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "11/21（土）にAgile459の５周年イベントを開催します！"
-description: ""
+description: "Agile459の５周年記念イベントを開催することになりました。アジャイルプロセス協議会前会長 アッズーリ濱さんの講演、Agile459のメンバーの実践のストーリー、JAWS-UG愛媛代表影浦さんの「クラウド☓アジャイル」の講演、この５年のふりかえりと今後５年の四国におけるアジャイル普及の道のりを考えます。"
 category: event
 tags: [matsuyama,agile]
 ---
