@@ -2,7 +2,7 @@
 layout: page
 title: Home
 ---
-{% include JB/setup %}
+<!--{% include JB/setup %}-->
 
 ## はじめまして
 
