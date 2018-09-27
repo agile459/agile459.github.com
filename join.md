@@ -3,7 +3,6 @@ layout: page
 title: 参加方法
 description: ""
 ---
-{% include JB/setup %}
 
 ### 勉強会、イベントに参加したい
 毎月実施している勉強会、年数回開催する大きなイベントに参加することで多くの情報を得ることができます。読書会、県外のゲストを呼んでの講演、年に一度全国規模で同時開催される[Agile Japan](http://www.agilejapan.org/)など、多数の企画が開催されます。

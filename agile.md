@@ -5,7 +5,6 @@ header: "What's Agile?"
 description: ""
 group: navigation
 ---
-{% include JB/setup %}
 
 ###　アジャイルとは？
 

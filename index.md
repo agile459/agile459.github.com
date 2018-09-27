@@ -2,7 +2,6 @@
 layout: page
 title: Home
 ---
-<!--{% include JB/setup %}-->
 
 ## はじめまして
 
@@ -14,7 +13,10 @@ Agile459は、四国地域においてアジャイルな開発、アジャイル
 
 ## 最新の投稿
 
-{% assign posts = site.posts %}
-{% assign listing_limit = 5 %}
-{% include post-listing.html %}
-
+<ul>
+  {% for post in site.posts limit:5 %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
