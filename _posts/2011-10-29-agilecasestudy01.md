@@ -5,10 +5,6 @@ description: ""
 category: event
 tags: [event]
 ---
-{% include JB/setup %}
-
-
-## アジャイル事例研究(1)
 
 ##### ビジネス加速のためのアジャイル 〜顧客価値を継続的に提供するITの実現へ〜
 

@@ -5,7 +5,6 @@ description: ""
 category: Event
 tags: [ProductOwner]
 ---
-{% include JB/setup %}
 
 ##プロダクトオーナーについて
 

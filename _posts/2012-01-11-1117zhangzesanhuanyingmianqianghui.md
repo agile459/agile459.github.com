@@ -5,10 +5,6 @@ description: ""
 category: event
 tags: [event]
 ---
-{% include JB/setup %}
-
-
-## 11/17 長沢さん歓迎勉強会
 
 11/17にマイクロソフトの長沢智治さんをお招きして、
 

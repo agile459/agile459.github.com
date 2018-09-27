@@ -5,10 +5,6 @@ description: ""
 category: event
 tags: [event]
 ---
-{% include JB/setup %}
-
-
-## 2012/04/02 アジャイルサムライ読書会 in 松山(2) 開催
 
 3/16のAgileJapan2012に開催した、アジャイルサムライ読書会の第二回を4/2に開催しました。
 当日は新メンバーも含めて6名で一番町の [Y's Cafe](http://www.e-komachi.com/web/gourmet/detail.asp?tnid=38583) にて開催しました。
