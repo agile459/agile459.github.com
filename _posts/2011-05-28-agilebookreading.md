@@ -5,10 +5,6 @@ description: ""
 category: event
 tags: [event]
 ---
-{% include JB/setup %}
-
-
-## 20110528 アジャイルプラクティス Pre回(天使の言葉集)
 
 <pre>
 ============================

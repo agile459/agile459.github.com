@@ -5,7 +5,6 @@ description: ""
 category: event
 tags: [matsuyama,design sprint]
 ---
-{% include JB/setup %}
 
 2015/03/01に[デザインスプリントについて学ぶ](https://agile459.doorkeeper.jp/events/21067)勉強会を実施しました。
 

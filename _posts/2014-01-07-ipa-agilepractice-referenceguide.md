@@ -5,7 +5,6 @@ description: ""
 category: event
 tags: [event, IPA]
 ---
-{% include JB/setup %}
 
 ## IPA後援のアジャイルセミナーが愛媛で開催！
 

@@ -5,7 +5,6 @@ description: ""
 category: event
 tags: [agilejapan, tokushima]
 ---
-{% include JB/setup %}
 
 ## イベントレポート
 2014/06/27に[AgileJapan2014](http://agilejapan.org)が今年も開催されました。

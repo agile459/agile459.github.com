@@ -5,7 +5,6 @@ description: ""
 category: event
 tags: [matsuyama, event]
 ---
-{% include JB/setup %}
 
 ## イベントレポート
 2014/11/15 「Global day of Coderetreat in Matsuyama」が開催されました。

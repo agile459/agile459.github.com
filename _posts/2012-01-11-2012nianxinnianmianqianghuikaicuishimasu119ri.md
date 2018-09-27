@@ -3,10 +3,6 @@ layout: post
 title: "2012年 新年勉強会 開催します(1/19日)"
 description: ""
 ---
-{% include JB/setup %}
-
-
-## 2012年 新年勉強会 開催します(1/19日)
 
 Agile459も、2年目に突入しました。
 

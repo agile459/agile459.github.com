@@ -5,9 +5,6 @@ description: "Agile459の５周年記念イベントを開催することにな�
 category: event
 tags: [matsuyama,agile]
 ---
-{% include JB/setup %}
-
-## 11/21（土）に Agile459 5周年イベントを開催します！
 
 2015/11/21はAgile459（アジャイル四国）を立ち上げて**５年目**になります。そこで、Agile459の記念イベントを開催することになりました！
 

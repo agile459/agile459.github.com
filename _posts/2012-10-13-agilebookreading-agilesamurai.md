@@ -5,10 +5,6 @@ description: ""
 category: event
 tags: [event]
 ---
-{% include JB/setup %}
-
-
-## 20121013 アジャイル本読書会
 
 6章の気になる/疑問点キーワード記録(Slideshare)
 

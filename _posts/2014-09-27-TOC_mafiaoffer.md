@@ -5,7 +5,6 @@ description: ""
 category: event
 tags: [matsuyama, event]
 ---
-{% include JB/setup %}
 
 ## イベントレポート
 2014/9/27 「TOCを使って断れないほど魅力的な提案を作ろう！！」ワークショップが開催されました。

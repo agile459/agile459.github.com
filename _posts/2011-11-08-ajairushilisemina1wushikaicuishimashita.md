@@ -5,10 +5,6 @@ description: ""
 category: event
 tags: [event]
 ---
-{% include JB/setup %}
-
-
-## アジャイル事例セミナー(1) 無事開催しました
 
 2011/10/29(土)に[アジャイル事例セミナー](https://sites.google.com/site/agile459/events/agile_case_study/agilecasestudy01)が松山市民会館で開催されました。
 

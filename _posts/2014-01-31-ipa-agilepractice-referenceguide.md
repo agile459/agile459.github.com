@@ -5,7 +5,6 @@ description: ""
 category: event
 tags: [event, IPA]
 ---
-{% include JB/setup %}
 
 <br/>
 ## アジャイル型開発におけるプラクティス活用リファレンスガイドの勘所と活用方法セミナー開催

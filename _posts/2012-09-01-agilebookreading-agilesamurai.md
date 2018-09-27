@@ -5,10 +5,6 @@ description: ""
 category: event
 tags: [event]
 ---
-{% include JB/setup %}
-
-
-## 20120901 アジャイル本読書会
 
 2012/09/01読書会のログ
 

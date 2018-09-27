@@ -3,7 +3,6 @@ layout: page
 title: "３つの理由"
 group: about
 ---
-{% include JB/setup %}
 
 ### あなたがAgile459に参加する３つの理由
 

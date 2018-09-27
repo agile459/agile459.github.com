@@ -5,10 +5,6 @@ description: ""
 category: event
 tags: [event]
 ---
-{% include JB/setup %}
-
-
-## 20110827 アジャイル本読書会
 
 <pre>
 ### 開催概要

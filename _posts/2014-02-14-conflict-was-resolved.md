@@ -5,9 +5,6 @@ description: ""
 category: event
 tags: [event]
 ---
-{% include JB/setup %}
-
-## その対立、解決します！『僕らは、対立を越えて協働する』~TOC対立解消図を使い倒す~ セミナーリポート
 
 <img src="https://dzpp79ucibp5a.cloudfront.net/events_banners/8739_normal_1391401677_%E5%90%8D%E7%A7%B0%E6%9C%AA%E8%A8%AD%E5%AE%9A-1.jpg" alt="対立イメージ" width="90%">
 -------
