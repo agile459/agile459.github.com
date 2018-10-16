@@ -16,7 +16,11 @@ Agile459は、四国地域においてアジャイルな開発、アジャイル
 <ul>
   {% for post in site.posts limit:5 %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.date | date_to_string }}
+      <a href="{{ post.url }}">
+        <p>{{ post.title }}</p>
+      </a>
     </li>
   {% endfor %}
 </ul>
+
