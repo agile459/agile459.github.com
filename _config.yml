@@ -9,6 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://agile459.github.io"
 twitter_username: agile459
 github_username:  agile459
+language: ja
 
 # Build settings
 markdown: kramdown
